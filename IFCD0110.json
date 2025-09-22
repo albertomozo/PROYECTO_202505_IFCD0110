@@ -99,16 +99,16 @@
             "github" : "jsr707",
             "url" : "https://curriculumjoss.netlify.app/",
             "inicio" : {
-                "html" : 4,
-                "css" : 2,
+                "html" : 2,
+                "css" : 1,
                 "JS" : 0,
                 "WP" :0
             },
             "fin" : {
-                "html" : 9,
-                "css" : 7,
-                "JS" : 3,
-                "WP" :5
+                "html" : 5,
+                "css" : 4,
+                "JS" : 2,
+                "WP" :3
             }
     },
     {
