@@ -38,11 +38,12 @@
         "linked" : "http://Linkedin.com/in/lizcebrecos",
         "github" : "Liz-katherine",
         "url" : "https://cvindex.netlify.app/",
+        "url" : "https://dulceysalado.netlify.app/",
         "inicio" : {
-            "html" : 0,
-            "css" : 0,
-            "JS" : 0,
-            "WP" :0
+            "html" : 2,
+            "css" : 2,
+            "JS" : 1,
+            "WP" :1
         },
         "fin" : {
             "html" : 2,
