@@ -40,16 +40,16 @@
         "url" : "https://cvindex.netlify.app/",
         "url" : "https://dulceysalado.netlify.app/",
         "inicio" : {
-            "html" : 2,
-            "css" : 2,
-            "JS" : 1,
-            "WP" :1
+            "html" : 0,
+            "css" : 0,
+            "JS" : 0,
+            "WP" :0
         },
         "fin" : {
             "html" : 2,
-            "css" : 1,
-            "JS" : 0,
-            "WP" :0
+            "css" : 2,
+            "JS" : 1,
+            "WP" :2
         }
     },
     
