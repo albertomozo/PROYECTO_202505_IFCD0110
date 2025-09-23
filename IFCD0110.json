@@ -155,8 +155,8 @@
             "Nombre":"Marcio Martins Barros",
             "email" : "marciomunguluni@gmail.com",
             "linked" : "",
-            "github" : "Marciomunguluni",
-            "url" : "https://cv-marcio.netlify.app/",
+            "github" :"Marciomunguluni",
+            "url" : "http://marcio.kesug.com/",
             "inicio" : {    
                 "html" : 0,
                 "css" : 0,
@@ -164,10 +164,10 @@
                 "WP" :0          
             },
             "fin" : {    
-                "html" : 3,
-                "css" : 3,
+                "html" : 5,
+                "css" : 5,
                 "JS" : 2,
-                "WP" :0
+                "WP" :7
              }
     },
     {
